@@ -1,0 +1,187 @@
+Epoch 50/50
+172/172 [==============================] - 333s 2s/step - loss: 0.4198
+JULIET:
+I would you did but tell her speak.
+
+HASTINGS:
+Out, if you do not know thy country's coast
+Had beauteous forth to kiss the earth and open right,
+upon thy neck! why, is he no news?
+
+LADY CHERShook: Gaunt it is to mine enemy:
+My Lord of Hereford, being one of yours.
+
+QUEEN ELIZABETH:
+Flatter my soul! and will so much upon, you undertake,
+And sin to him by the former language.
+
+PETRUCHIO:
+Were it better you were known to take the one
+where Clarence in coile in earnest,
+All this divide through the dark night before we be,
+For in any nagural good according,
+Make means the wagging of my crown?
+
+LEONTES:
+What should I bear you?
+
+ABHORSON:
+Let us tie this strong and drows:
+He hugges him speak fainth hath Richard in his bone
+To rouse the day these envious since, we will prove
+To see your good against but ere they cannot
+Pembath his skif-endures too but to get.
+Ull thou declared to Henry.
+
+FLORENCE:
+Season mothers, and to do in justice cannot amen me as a lord:
+Though he hath followed my faith
+
+________________________________________________________________________________
+
+Run time: 4.082312107086182
+
+
+Epoch 20/20
+172/172 [==============================] - 326s 2s/step - loss: 0.7407
+ROMEO:
+Sir Bohemia and conspiracy! why looks your high?
+
+BENVOLIO:
+How now, do I.
+
+Third Lord:
+I had rather give me honour'd.
+
+POMPEY:
+I could weep: know, signior, thou shalt not do
+rest. Hence and iss
+A thousand time to make myself amis--
+
+Tho lady's enjoy? Why dost thou love my thunder night?
+Wert thou the messess; but I have been,
+Have I not yet nature 'scape in health,
+To brow his very table corse; or,
+beholded the princes may stay at liberty.
+
+GREEN:
+For him, my lord.
+
+ELIBA:
+Now, live, not for the like and four our children;
+I charge you, tell us 'MINCERTIO:
+An indeed his doubh.
+
+BAPTISTA:
+Can fedder with her lips for right.
+
+BAPTISTA:
+Why, madam, have I the fire and then?
+
+POLIXENES:
+A royal hunsed masters! Live! and so I take thee joyful,
+May I stand back: but it up so recover'd.
+
+ROMEO:
+Well, let it not: you hear me not, I say.
+
+GREMIO:
+Why, every Jonn husband, and freth approaches:
+And wouldst thou be a parlo marture
+To mine ears grave his daughter with us.
+
+BRUTUS:
+In troth, I tro
+
+________________________________________________________________________________
+
+Run time: 3.8062050342559814
+
+Epoch 5/5
+172/172 [==============================] - 326s 2s/step - loss: 1.4418
+ROMEO:
+Carubly my mother grods.
+
+KATh Leam:
+Glease success on Tower;'l by the biging doth from
+my wife for them to from Claudio,
+Be not believe much ment shall Save years,
+My maider herwinks.
+
+MERENIUS:
+O sighly.
+
+PRINCE EDWARD IV:
+It is stand come. Did I know.
+
+HORTENSIO:
+
+PROSPERO:
+I grain. These young Romeo,
+heart your highberly.
+Call by the met that tath him that quickle make owher hast thy heart?
+
+KING RICHARD II:
+Nor was a seny mock.
+
+HENRY LORI:
+You pollow your court?
+If who valofion bascal! Oncols, bed, so fellow by kings
+As blow our falsest in bid; full of death
+In what he cannot clood my myster:
+Duston upon my love beast, and revanged and crest against them.
+
+TRANIO:
+I am their welcome
+To sleaved the dearths death: 'lize my bust, let's in a while;
+And me to all like two havour?
+Tall, oun twoly Fronemen, King op tweinary
+Dour looks are nust, to commont like force:
+Though there, dreams These fring make a till; that's unles'd!
+To much veige my bodys here weepet.
+
+CARIEL:
+Good mine eye
+
+________________________________________________________________________________
+
+Run time: 3.6193766593933105
+
+172/172 [==============================] - 339s 2s/step - loss: 2.7213
+ROMEO:
+Heade un's alt ghake dond st hisg, lat map'st
+Ke Fig simf you ga histertomy, I'd stal tou forof tr'od tes ow asw ther inobd youw
+For;
+On dod 'sill ad rerlin; yo io, meears Ixfour, ke thes leay winst busth my as tfe har
+Hener: Hime fou so spearte ist lame ie then minge, ar dece fext of siscer!
+
+QORUDSKCI OCREVTL:
+A belle fote yotees sreecerid,
+I lo mest, her berede levenend wroim mrithe mys she wile?
+
+CETBEI
+MINGIL:
+Will if wesl gothur, sfeang, abpeere theersira?
+To pand inger woo.
+
+Bordade But hove:
+ eos dor lat why.
+
+QOME I EJUI:
+Clylecin
+And you now om sie hence loods-y--dath tion Sillve gelicnd'y betomy; an theen the be to knou lete, ceave bote
+And Sing
+And, piochith art you marss then wo speast yik I aret mer tool hist ofad Lathe bivey it HoR:
+Oco pravn us ouf ur in stes deat
+The ant imtted that thang.
+
+urjut fomdishoven:
+I wall ad thit, acere Ixtiey, rfaine fothy selan.
+
+pyoutere'd mecwise nod Gavan's in shesting wire,
+And ouy wishd and,:
+A't meal fors aleen oue: Froowhat, I rall
+
+________________________________________________________________________________
+
+Run time: 3.7380332946777344
